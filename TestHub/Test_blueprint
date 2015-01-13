@@ -8,7 +8,7 @@
         <ProfileName>Matthew | RSX | SR</ProfileName>
         <EDIProfile>
             <EnvelopQualifier>ZZ</EnvelopQualifier>
-            <EnvelopeID>11813</EnvelopeID>
+            <EnvelopeID>123456789</EnvelopeID>
             <GroupID>11813</GroupID>
             <SegmentDelimiter>10</SegmentDelimiter>
             <ElementDelimiter>42</ElementDelimiter>
