@@ -1,16 +1,16 @@
 <Blueprint>
 	<RetailerInfo>
-		<CompanyName>Caterpillar High Performance Hose Group West Plains</CompanyName><!--DC4 Company Name-->
+		<CompanyName>Caterpillar ---Division---</CompanyName><!--DC4 Company Name-->
 		<SalesforceID></SalesforceID><!--Salesforce ID, Not Mandatory-->
-		<HubID>CQL</HubID><!--Hub ID-->
+		<HubID></HubID><!--Hub ID-->
 		<WebCompanyName></WebCompanyName>
 	</RetailerInfo>
 	<ProfileLevel>
-		<ProfileName>Caterpillar High Performance Hose Group West Plains | RSX on SIP Platform | SR</ProfileName><!--Company Name | EDI if SIP, RSX if RSX | SR for prod, TEST for test-->
+		<ProfileName>Caterpillar ---Division--- | RSX on SIP Platform | SR</ProfileName><!--Company Name | EDI if SIP, RSX if RSX | SR for prod, TEST for test-->
 		<EDIProfile>
-			<EnvelopQualifier>09</EnvelopQualifier><!--Quailfer-->
-			<EnvelopeID>005070479KO</EnvelopeID><!--ISA ID-->
-			<GroupID>005070479KO</GroupID><!--Not needed for EDIFACT-->
+			<EnvelopQualifier></EnvelopQualifier><!--Quailfer-->
+			<EnvelopeID></EnvelopeID><!--ISA ID-->
+			<GroupID></GroupID><!--Not needed for EDIFACT-->
 			<SegmentDelimiter>10</SegmentDelimiter><!--X12=10 EDIFACT=39-->
 			<ElementDelimiter>42</ElementDelimiter><!--X12=42 EDIFACT=43-->
 			<SubElementDelimiter>125</SubElementDelimiter><!--X12=125 EDIFACT=58-->
